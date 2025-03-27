@@ -1,0 +1,216 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Kim\\Downloads\\refactorthis-main\\refactorthis-main\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{7971BDEC-EAD1-4FB8-A4F5-B1F67E4F6355}|RefactorThis.Domain.Tests\\RefactorThis.Domain.Tests.csproj|C:\\Users\\Kim\\Downloads\\refactorthis-main\\refactorthis-main\\refactorthis.domain.tests\\invoicepaymentprocessortests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7971BDEC-EAD1-4FB8-A4F5-B1F67E4F6355}|RefactorThis.Domain.Tests\\RefactorThis.Domain.Tests.csproj|solutionrelative:refactorthis.domain.tests\\invoicepaymentprocessortests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5310B2FE-E26D-414E-B656-1F74C5A70368}|RefactorThis.Domain\\RefactorThis.Domain.csproj|C:\\Users\\Kim\\Downloads\\refactorthis-main\\refactorthis-main\\refactorthis.domain\\services\\invoiceservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5310B2FE-E26D-414E-B656-1F74C5A70368}|RefactorThis.Domain\\RefactorThis.Domain.csproj|solutionrelative:refactorthis.domain\\services\\invoiceservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{50F3F93C-6688-4B4B-8B30-3BDF6FA4485F}|RefactorThis.Persistence\\RefactorThis.Persistence.csproj|c:\\users\\kim\\downloads\\refactorthis-main\\refactorthis-main\\refactorthis.persistence\\invoicerepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{50F3F93C-6688-4B4B-8B30-3BDF6FA4485F}|RefactorThis.Persistence\\RefactorThis.Persistence.csproj|solutionrelative:refactorthis.persistence\\invoicerepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2614788F-24BF-40A8-8C9D-7E44409796BD}|efactorThis.Domain.Models\\efactorThis.Domain.Models.csproj|c:\\users\\kim\\downloads\\refactorthis-main\\refactorthis-main\\efactorthis.domain.models\\model\\payment.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2614788F-24BF-40A8-8C9D-7E44409796BD}|efactorThis.Domain.Models\\efactorThis.Domain.Models.csproj|solutionrelative:efactorthis.domain.models\\model\\payment.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2614788F-24BF-40A8-8C9D-7E44409796BD}|efactorThis.Domain.Models\\efactorThis.Domain.Models.csproj|c:\\users\\kim\\downloads\\refactorthis-main\\refactorthis-main\\efactorthis.domain.models\\model\\invoice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2614788F-24BF-40A8-8C9D-7E44409796BD}|efactorThis.Domain.Models\\efactorThis.Domain.Models.csproj|solutionrelative:efactorthis.domain.models\\model\\invoice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{50F3F93C-6688-4B4B-8B30-3BDF6FA4485F}|RefactorThis.Persistence\\RefactorThis.Persistence.csproj|c:\\users\\kim\\downloads\\refactorthis-main\\refactorthis-main\\refactorthis.persistence\\refactorthis.persistence.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{50F3F93C-6688-4B4B-8B30-3BDF6FA4485F}|RefactorThis.Persistence\\RefactorThis.Persistence.csproj|solutionrelative:refactorthis.persistence\\refactorthis.persistence.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{50F3F93C-6688-4B4B-8B30-3BDF6FA4485F}|RefactorThis.Persistence\\RefactorThis.Persistence.csproj|c:\\users\\kim\\downloads\\refactorthis-main\\refactorthis-main\\refactorthis.persistence\\refactorthis.persistence.csproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|",
+      "RelativeMoniker": "D:0:0:{50F3F93C-6688-4B4B-8B30-3BDF6FA4485F}|RefactorThis.Persistence\\RefactorThis.Persistence.csproj|solutionrelative:refactorthis.persistence\\refactorthis.persistence.csproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 22,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Payment.cs",
+              "DocumentMoniker": "C:\\Users\\Kim\\Downloads\\refactorthis-main\\refactorthis-main\\efactorThis.Domain.Models\\Model\\Payment.cs",
+              "RelativeDocumentMoniker": "efactorThis.Domain.Models\\Model\\Payment.cs",
+              "ToolTip": "C:\\Users\\Kim\\Downloads\\refactorthis-main\\refactorthis-main\\efactorThis.Domain.Models\\Model\\Payment.cs",
+              "RelativeToolTip": "efactorThis.Domain.Models\\Model\\Payment.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAOAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-27T03:42:37.684Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Invoice.cs",
+              "DocumentMoniker": "C:\\Users\\Kim\\Downloads\\refactorthis-main\\refactorthis-main\\efactorThis.Domain.Models\\Model\\Invoice.cs",
+              "RelativeDocumentMoniker": "efactorThis.Domain.Models\\Model\\Invoice.cs",
+              "ToolTip": "C:\\Users\\Kim\\Downloads\\refactorthis-main\\refactorthis-main\\efactorThis.Domain.Models\\Model\\Invoice.cs",
+              "RelativeToolTip": "efactorThis.Domain.Models\\Model\\Invoice.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABUAAABKAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-27T03:42:28.219Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:137:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:135:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:137:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:136:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:135:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:133:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:134:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:131:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:129:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:130:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:131:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:132:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:133:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:134:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:129:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "RefactorThis.Persistence",
+              "DocumentMoniker": "C:\\Users\\Kim\\Downloads\\refactorthis-main\\refactorthis-main\\RefactorThis.Persistence\\RefactorThis.Persistence.csproj",
+              "RelativeDocumentMoniker": "RefactorThis.Persistence\\RefactorThis.Persistence.csproj",
+              "ToolTip": "C:\\Users\\Kim\\Downloads\\refactorthis-main\\refactorthis-main\\RefactorThis.Persistence\\RefactorThis.Persistence.csproj",
+              "RelativeToolTip": "RefactorThis.Persistence\\RefactorThis.Persistence.csproj",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-03-27T03:19:23.533Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "RefactorThis.Persistence.csproj",
+              "DocumentMoniker": "C:\\Users\\Kim\\Downloads\\refactorthis-main\\refactorthis-main\\RefactorThis.Persistence\\RefactorThis.Persistence.csproj",
+              "RelativeDocumentMoniker": "RefactorThis.Persistence\\RefactorThis.Persistence.csproj",
+              "ToolTip": "C:\\Users\\Kim\\Downloads\\refactorthis-main\\refactorthis-main\\RefactorThis.Persistence\\RefactorThis.Persistence.csproj",
+              "RelativeToolTip": "RefactorThis.Persistence\\RefactorThis.Persistence.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-03-27T03:16:44.467Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "InvoiceService.cs",
+              "DocumentMoniker": "C:\\Users\\Kim\\Downloads\\refactorthis-main\\refactorthis-main\\RefactorThis.Domain\\Services\\InvoiceService.cs",
+              "RelativeDocumentMoniker": "RefactorThis.Domain\\Services\\InvoiceService.cs",
+              "ToolTip": "C:\\Users\\Kim\\Downloads\\refactorthis-main\\refactorthis-main\\RefactorThis.Domain\\Services\\InvoiceService.cs",
+              "RelativeToolTip": "RefactorThis.Domain\\Services\\InvoiceService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAD4AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-27T02:58:15.581Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "InvoicePaymentProcessorTests.cs",
+              "DocumentMoniker": "C:\\Users\\Kim\\Downloads\\refactorthis-main\\refactorthis-main\\RefactorThis.Domain.Tests\\InvoicePaymentProcessorTests.cs",
+              "RelativeDocumentMoniker": "RefactorThis.Domain.Tests\\InvoicePaymentProcessorTests.cs",
+              "ToolTip": "C:\\Users\\Kim\\Downloads\\refactorthis-main\\refactorthis-main\\RefactorThis.Domain.Tests\\InvoicePaymentProcessorTests.cs",
+              "RelativeToolTip": "RefactorThis.Domain.Tests\\InvoicePaymentProcessorTests.cs",
+              "ViewState": "AgIAAAEAAAAAAAAAAAAWwBYAAABjAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-27T02:54:31.268Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "InvoiceRepository.cs",
+              "DocumentMoniker": "C:\\Users\\Kim\\Downloads\\refactorthis-main\\refactorthis-main\\RefactorThis.Persistence\\InvoiceRepository.cs",
+              "RelativeDocumentMoniker": "RefactorThis.Persistence\\InvoiceRepository.cs",
+              "ToolTip": "C:\\Users\\Kim\\Downloads\\refactorthis-main\\refactorthis-main\\RefactorThis.Persistence\\InvoiceRepository.cs",
+              "RelativeToolTip": "RefactorThis.Persistence\\InvoiceRepository.cs",
+              "ViewState": "AgIAABQAAAAAAAAAAAAmwCEAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-27T02:46:34.651Z",
+              "EditorCaption": ""
+            }
+          ]
+        },
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": -1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{004be353-6879-467c-9d1e-9ac23cdf6d49}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
